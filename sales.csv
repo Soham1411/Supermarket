@@ -1,0 +1,16 @@
+Datetime,User,Item,Quantity,Price,Total
+2025-06-24 14:02:24,admin,Apple,10,30,300
+2025-06-24 14:06:26,cashier,Apple,10,30,300
+2025-06-24 17:07:26,cashier,Apple,12,30,360
+2025-06-24 17:07:35,cashier,Milk,3,50,150
+2025-06-24 17:33:18,cashier,Apple,2,30,60
+2025-06-24 17:33:18,cashier,Banana,4,10,40
+2025-06-24 17:33:18,cashier,Milk,1,50,50
+2025-06-24 17:33:18,cashier,Bread,2,40,80
+2025-06-24 19:36:54,cashier,Eggs (12 Pack),12,75,900
+2025-06-24 19:36:54,cashier,Bread (Loaf),10,40,400
+2025-06-24 19:36:54,cashier,Milk (1L),2,55,110
+2025-06-24 19:49:55,cashier,Rice (5kg),2,250,500
+2025-06-24 19:49:55,cashier,Cooking Oil (1L),3,130,390
+2025-06-24 19:55:29,cashier,Bread (Loaf),2,40,80
+2025-06-24 19:55:29,cashier,Biscuits Pack,5,25,125
